@@ -1,0 +1,29 @@
+.formsec{
+
+    text-align: center;
+    background: url("images/sky.jpg") no-repeat center;
+    background-position:center;
+    background-size: cover;
+
+  padding: 7% 10%;
+
+  }
+input{
+  margin:7px;
+  box-sizing: border-box;
+  margin: 4px;
+  width:40%;
+border-radius: 4px;
+padding:0.5%;
+}
+  p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size:0,8rem;
+    margin: 7px;
+    color:white;
+  }
+.btn{
+  margin-top: 20px;
+border-radius: 29px;
+}

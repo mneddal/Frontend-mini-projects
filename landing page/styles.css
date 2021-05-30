@@ -1,0 +1,154 @@
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color:white;
+font-weight: bold;
+font-size: 3rem;
+padding:4% 0 2% 0;
+}
+em{
+color:white;
+font-family: 'Montserrat', sans-serif;
+font-size: 1rem;
+font-weight: bold;
+display: inline-block;
+}
+
+/* container*/
+
+
+/* jumpotron*/
+
+.jumbotron{
+  background: url("images/gWcNS0soEM58UqVx.jpg") no-repeat center;
+  background-position: right;
+  background-size: cover;
+color:
+#163172;
+  padding: 10% 10%;
+  margin-bottom: 0;
+  font-weight: bold;
+}
+.lead{
+ font-family: 'Ubuntu', sans-serif;
+font-weight:bolder;
+color:#163172;
+}
+.display-4{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: lighter;
+}
+/*testemonials*/
+#test
+{
+
+background-color: rgb(2, 44, 67);
+padding: 6% 12%;
+text-align: center;
+
+}
+.testimonials-photos{
+  padding: 2% 2% 8%;
+  border-radius: 100%;
+  width:60%;
+}
+/*nav bar*/
+.nav-item{
+  margin:2%;
+  padding:3%;
+}
+.nav-link{
+font-family: 'Montserrat', sans-serif;
+font-weight: 300;
+}
+.nav-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.navimg{
+  padding:5px;
+}
+.navy{
+  background-color: #393e46;
+  padding:0 3%;
+}
+/*serve*/
+
+.h2serve{
+  color:white;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+#serveice{
+  background-color: #00b8a9;
+  text-align: center;
+}
+
+.card{
+    background-color: #00b8a9;
+}
+
+
+.btn{
+  border-radius: 29px;
+  border-width: thin;
+  margin:10px;
+  padding:10px;
+}
+
+.card-title{
+  color:
+  #163172;
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.card-text{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color:white;
+  font-size:1rem;
+}
+
+.imgserv{
+  padding:4%;
+}
+
+
+
+/* Contact*/
+
+
+.contact{
+  text-align: center;
+  background: url("images/cen.jpg") no-repeat center;
+  background-position: right;
+  background-size: cover;
+padding: 10% 10%;
+}
+
+.con{
+  margin-bottom: 70px;
+}
+
+.h2contact{
+  color:#163172;
+  font-weight: bold;
+}
+.ico{
+  padding:10px;
+}
+
+#footer{
+  background-color: #a6dcef;
+  text-align: center;
+  padding:2% 7% 2% ;
+  color:#888888;
+  font-weight: bold;
+}
+.icons-footer{
+  margin:7px;
+}

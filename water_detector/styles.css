@@ -1,0 +1,85 @@
+video{
+  object-fit: cover;
+  width: 140vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.content {
+
+  position:absolute;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 40px;
+
+}
+
+#navbar{
+  text-align: center;
+
+  color: #7579e7;
+
+
+}
+
+.navi{
+  padding:2%;
+}
+
+.nav-item{
+  padding:2%;
+}
+
+.profile-picture{
+  border-radius: 100%;
+}
+
+.intro{
+  padding: 4%;
+
+text-align: center;
+background-color:  #28abb9;
+color: white;
+}
+
+.idata1{
+  margin-top: 3%;
+}
+.icons{
+  padding:4%;
+  text-align: center;
+}
+.icons-text{
+  padding:4%;
+}
+.card-text{
+  font-size: small;
+  padding:3%;
+}
+
+
+p{
+
+  font-family: 'Montserrat', sans-serif;
+
+  font-weight: bold;
+
+}
+
+h3,h2{
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+
+}
+a{
+  font-family:  'Montserrat', sans-serif;
+font-weight: bold;
+
+}
+.graph{
+  text-align: center;
+  padding:4%;
+}
